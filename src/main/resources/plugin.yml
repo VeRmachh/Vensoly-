@@ -1,0 +1,4 @@
+name: BakingPlugin
+version: 1.0
+main: [ваш_пакет].BakingPlugin
+api-version: 1.21
